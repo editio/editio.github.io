@@ -4,6 +4,5 @@ layout: post
 title: Oráculo
 ---
 
-# Presentaciones sobre el Oráculo manual y arte de prudencia (1647)
 
-Presentaciones para el _Intensive Program Erasmus_ [Markdown](http://editio.github.io/manual/)
+Añado aquí el enlace a las presentaciones para el _Intensive Program Erasmus_ [Oráculo manual y arte de prudencia (1647)](http://editio.github.io/manual/)
