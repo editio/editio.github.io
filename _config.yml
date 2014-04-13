@@ -5,6 +5,7 @@ timezone: Europe/Berlin
 
 
 # prose options
+
 prose:
   rooturl: "_posts"
   siteurl: "http://editio.github.io/"
@@ -31,9 +32,4 @@ prose:
           placeholder: "post title"
           value: ""
               
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
     
