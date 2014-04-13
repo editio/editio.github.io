@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Presentaciones
+title: Oráculo
 ---
 
 # Presentaciones sobre el Oráculo manual y arte de prudencia (1647)
