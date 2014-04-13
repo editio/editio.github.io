@@ -30,15 +30,5 @@ prose:
           label: "title"
           placeholder: "post title"
           value: ""
-          
-          _posts/pages:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
+         
     
