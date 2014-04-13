@@ -30,5 +30,10 @@ prose:
           label: "title"
           placeholder: "post title"
           value: ""
-         
+              
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
     
