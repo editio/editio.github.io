@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Untitledvcbc
 permalink: copia
-author: losada
+author: ""
 ---
 
 ## A New Post
