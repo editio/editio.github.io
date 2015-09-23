@@ -1,8 +1,10 @@
 ---
 layout: page
-title: sobre el proyecto	
+title: sobre el proyecto
+published: true
 ---
+
 
 ### Sobre el proyecto
 
-Se pueden encontrar links a los distintos proyectos, por ahora en github.
+Esta página por ahora enlaza a los distintos proyectos alojados en github.
