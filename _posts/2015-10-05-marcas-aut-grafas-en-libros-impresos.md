@@ -1,8 +1,10 @@
 ---
-published: false
+published: true
+layout: post
 author: ""
 title: Marcas autógrafas en libros impresos
 ---
+
 
 
 ##
