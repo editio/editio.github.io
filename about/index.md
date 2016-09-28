@@ -7,4 +7,4 @@ published: true
 
 ### Sobre el proyecto
 
-Esta página por ahora enlaza a los distintos proyectos alojados en github.
+Esta página enlaza a los distintos proyectos alojados en github.
