@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: ''
+title: DARIAH-PL Workshop
 ---
 ## DARIAH-PL Workshop
 
