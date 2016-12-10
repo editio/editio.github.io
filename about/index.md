@@ -5,6 +5,6 @@ published: true
 ---
 
 
-### Sobre el proyecto
+### Sobre el proyecto editio.github.io
 
 Esta página enlaza a los distintos proyectos alojados en github.
