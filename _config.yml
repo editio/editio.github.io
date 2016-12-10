@@ -1,4 +1,4 @@
-name: Proyectos digitales
+name: Editio
 markdown: kramdown
 base-url: /
 timezone: Europe/Berlin
@@ -31,5 +31,3 @@ prose:
           label: "title"
           placeholder: "post title"
           value: ""
-              
-    
