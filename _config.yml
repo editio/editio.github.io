@@ -1,5 +1,5 @@
 name: Proyectos digitales
-markdown: redcarpet
+markdown: kramdown
 base-url: /
 timezone: Europe/Berlin
 
