@@ -1,10 +1,8 @@
 ---
 published: true
 layout: post
-title: ''
+title: Schopenhauer's marginalia
 ---
-## Schopenhauer's marginalia
-
 
 The first book partially transcribed and encoded from Schopenhauer's library, [_Oráculo manual y arte de prudencia_](http://schopenhauer.uni.wroc.pl/node/1) is already online.
 
