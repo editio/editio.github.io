@@ -21,7 +21,7 @@ prose:
           value: "true"
       - name: "author"
         field:
-          element: "text"
+          element: "hidden"
           label: "author"
           placeholder: "your name"
           value: ""
