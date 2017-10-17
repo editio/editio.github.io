@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'mapping-fictional-places '
+title: 'Mapping fictional places '
 ---
 
 
