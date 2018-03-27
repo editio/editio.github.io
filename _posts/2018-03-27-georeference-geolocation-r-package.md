@@ -54,4 +54,4 @@ addTiles() %>%
 addMarkers(places$lon, places$lat)
 ```
 
-![georeference & leaflet](http://github.com/editio/editio.github.io/blob/master/imagen/georeference_leaflet_post.jpg)
+![georeference & leaflet](https://raw.githubusercontent.com/editio/editio.github.io/master/imagen/georeference_leaflet_post.jpg)
