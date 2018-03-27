@@ -54,4 +54,4 @@ addTiles() %>%
 addMarkers(places$lon, places$lat)
 ```
 
-<iframe src='https://github.com/editio/editio.github.io/tree/master/imagen/georeference_r_package.html' width='100%' height='650' frameborder='0'></iframe>
+![georeference & leaflet]({{site.baseurl}}/https://github.com/editio/editio.github.io/blob/master/imagen/georeference_leaflet_post.jpg)
