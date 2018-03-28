@@ -5,7 +5,7 @@ title: 'georeference: Geolocation R package'
 ---
 If you are working with places mentioned in historical or literary texts, you may want to geolocate them using digital gazetteers.
 
-I wanted to automate the process —as the [geocode()](https://github.com/dkahle/ggmap/blob/master/R/geocode.R) function from the [ggmap package](https://github.com/dkahle/ggmap) does with the Google API—, but using Pelagios, gazetteer more suitable for historical and literary texts. So, directly based on the geocode() function, I wrote an R package with just one function that returns latitude, longitude, location name, url/id, and searched query from the gazetteers Pelagios (default),  Geonames, and Wikipedia (georeferenced articles stored in the GeoNames database). 
+I wanted to automate the process —as the [geocode()](https://github.com/dkahle/ggmap/blob/master/R/geocode.R) function from the [ggmap package](https://github.com/dkahle/ggmap) does with the Google API—, but using Pelagios instead, a gazetteer more suitable for historical and literary texts. So, directly based on the geocode() function, I wrote an R package with just one function that returns latitude, longitude, location name, url/id, and searched query from the gazetteers Pelagios (default),  Geonames, and Wikipedia (georeferenced articles stored in the GeoNames database). 
 
 The [georeference R package](https://github.com/editio/georeference) is available in my Github repository. Examples of usage: 
 
